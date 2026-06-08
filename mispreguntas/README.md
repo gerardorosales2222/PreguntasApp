@@ -1,3 +1,5 @@
+> .[!NOTE].
+> no son de chatgpt
 # Mis preguntas
 
 ¿Que es el body?
