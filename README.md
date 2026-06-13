@@ -3,13 +3,21 @@
 A continuación preguntas sobre Programación de APP para Dispositivos Móviles:
 
 Espindola: 7.5
+
 Oña: 7
+
 Fernanda: 6
+
 Agustin: 6
+
 Marcos: 3.5
+
 Gomez J: 3
+
 Nacho: 2
+
 Román: 2
+
 Pinto: 1
 
 ---
